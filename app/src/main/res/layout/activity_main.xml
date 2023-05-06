@@ -11,9 +11,8 @@
         android:layout_height="244dp"
         android:src="@drawable/graphic"
         app:layout_constraintBottom_toTopOf="@id/info"
-        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
         android:scaleType="fitXY"
-        app:layout_constraintStart_toStartOf="parent"
         />
 
 
